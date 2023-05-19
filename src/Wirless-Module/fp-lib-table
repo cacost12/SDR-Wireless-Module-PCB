@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Wireless-Module")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/Wireless-Module/lib/Wireless-Module.pretty")(options "")(descr ""))
+  (lib (name "Ground-Station-Telemetry")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/Ground-Station-Telemetry/lib/Ground-Station-Telemetry.pretty")(options "")(descr ""))
+  (lib (name "Engine-Controller")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/Liquid-Engine-Controller/lib/Engine-Controller.pretty")(options "")(descr ""))
+)
